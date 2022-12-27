@@ -1,0 +1,15 @@
+{
+  "name": "fractal-mh",
+  "version": "1.0.0",
+  "description": "Design Components for methodisthealth.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Adrian Grimm",
+  "license": "ISC",
+  "dependencies": {
+    "@frctl/fractal": "^1.5.14"
+  }
+}
